@@ -1,0 +1,5 @@
+_id,book_id,title,author_id,price,inventory_count
+66882b9ca7050ed3e9c6643d,1,Book A,101,20,100
+66882b9ca7050ed3e9c6643e,2,Book B,102,25,150
+66882b9ca7050ed3e9c6643f,3,Book C,103,15,200
+66882b9ca7050ed3e9c66440,4,Book D,104,28,450
